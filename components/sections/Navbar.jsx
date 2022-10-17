@@ -11,7 +11,6 @@ import {
   useDisclosure,
 } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
-import { useRouter } from "next/router";
 
 export default function Navbar(props) {
   const { isOpen, onToggle } = useDisclosure();
