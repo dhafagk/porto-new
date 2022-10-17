@@ -1,10 +1,13 @@
-import { Box, Flex } from "@chakra-ui/react";
-import Hero from "../utils/Hero";
+import { Box } from "@chakra-ui/react";
+import { Card } from "../utils";
 
 const Main = (props) => {
   return (
-    <Box height="500px" px={{ base: 4 }} {...props}>
-      kontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontolkontol
+    <Box px={{ base: 4 }} pt={{ base: 10 }} {...props} id="work">
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </Box>
   );
 };

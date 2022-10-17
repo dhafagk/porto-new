@@ -3,6 +3,14 @@ import { extendTheme } from "@chakra-ui/react";
 
 const fonts = { heading: `'DM Sans', monospace`, body: `'Inter', sans-serif` };
 
+const breakpoints = {
+  sm: "30em",
+  md: "48em",
+  lg: "62em",
+  xl: "85em",
+  "2xl": "96em",
+};
+
 const theme = extendTheme({
   // semanticTokens: {
   //   colors: {
@@ -26,8 +34,16 @@ const theme = extendTheme({
   colors: {
     black: "#181717",
   },
+  styles: {
+    global: {
+      "html, body": {
+        background: "#F3F3F3",
+      },
+    },
+  },
 
   fonts,
+  breakpoints,
 });
 
 export default theme;

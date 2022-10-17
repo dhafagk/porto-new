@@ -1,6 +1,6 @@
 import { ArrowDownIcon } from "@chakra-ui/icons";
 import { motion } from "framer-motion";
-import { Box, keyframes } from "@chakra-ui/react";
+import { Box, keyframes, Link } from "@chakra-ui/react";
 
 const ArrowDown = () => {
   const animationKeyframes = keyframes`
@@ -15,12 +15,13 @@ const ArrowDown = () => {
       as={motion.div}
       animation={bounce}
       cursor="pointer"
-      textAlign="center"
-      position="absolute"
-      bottom="34rem"
-      right="50%"
+      textAlign="left"
+      pl="3"
+      pb="16"
     >
-      <ArrowDownIcon w={8} h={8} color={"black"} />
+      <Link href="#work">
+        <ArrowDownIcon w={10} h={10} color={"black"} />
+      </Link>
     </Box>
   );
 };
