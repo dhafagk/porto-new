@@ -1,34 +1,38 @@
 [
   {
-    "image": "/homes/space.jpeg",
-    "title": "Peaceful retreat in Space with stunning view of Earth",
-    "subtitle": "Lorem Ippsum",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "demo_url": "link",
+    "id": 1,
+    "image": "/projects/sgi.png",
+    "project_name": "Satu Global Investama",
+    "description": "A Company Profile Landing Page that created with React, Next Js and Chakra UI as UI Library",
+    "misc": "This is my most recent freelancing work",
+    "demo_url": "https://www.satuglobalinvestama.com/",
     "github_repo": "link"
   },
   {
-    "image": "/homes/space.jpeg",
-    "title": "Peaceful retreat in Space with stunning view of Earth",
-    "subtitle": "Lorem Ippsum",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "demo_url": "link",
+    "id": 2,
+    "image": "/projects/mojadiapp.png",
+    "project_name": "Mojadiapp",
+    "description": "An Education Platform created with Laravel + Vue Js",
+    "misc": "My internship project at Kampus Merdeka Internship Program as a Front End",
+    "demo_url": "https://mojadiapp.com/",
     "github_repo": "link"
   },
   {
-    "image": "/homes/space.jpeg",
-    "title": "Peaceful retreat in Space with stunning view of Earth",
-    "subtitle": "Lorem Ippsum",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "demo_url": "link",
+    "id": 3,
+    "image": "/projects/kenaltiongkok.png",
+    "project_name": "Kenal Tiongkok",
+    "description": "A Landing Page for Chinese Language Course site created with Wordpress",
+    "misc": "This is my freelancing work as a Wordpress Developer",
+    "demo_url": "https://kenaltiongkok.com/",
     "github_repo": "link"
   },
   {
-    "image": "/homes/space.jpeg",
-    "title": "Peaceful retreat in Space with stunning view of Earth",
-    "subtitle": "Lorem Ippsum",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "demo_url": "link",
+    "id": 4,
+    "image": "/projects/kamisaha.jpg",
+    "project_name": "Kamisaha",
+    "description": "A streaming anime/video site created with Wordpress",
+    "misc": "I was created this Wordpress Theme and sell it on Codester",
+    "demo_url": "https://www.codester.com/items/31438/kamisaha-anime-streaming-wordpress-theme",
     "github_repo": "link"
   }
 ]

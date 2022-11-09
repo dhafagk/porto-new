@@ -1,4 +1,4 @@
-import { Flex, HStack, Link, Spacer, Text } from "@chakra-ui/react";
+import { Flex, HStack, Link, Spacer } from "@chakra-ui/react";
 import React from "react";
 
 function Footer() {
@@ -19,9 +19,15 @@ function Footer() {
       </Link>
       <Spacer />
       <HStack spacing="10">
-        <Link>Github</Link>
-        <Link>Linkedin</Link>
-        <Link>Instagram</Link>
+        <Link href="https://github.com/dhafagk" isExternal>
+          Github
+        </Link>
+        <Link href="https://www.linkedin.com/in/dhafagk/" isExternal>
+          Linkedin
+        </Link>
+        <Link href="https://www.instagram.com/dhafageka/" isExternal>
+          Instagram
+        </Link>
       </HStack>
     </Flex>
   );

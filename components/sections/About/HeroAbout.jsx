@@ -8,36 +8,35 @@ function HeroAbout() {
           Hi I&apos;m Dhafa Gustiadi Kurniawan, Frontend Developer.
         </Text>
         <Text fontSize="xl" color="gray.600">
-          My work is mainly focused on third-dimension modeling, texturing and
-          rendering. I like exploring the creatures with a touch of dark
-          surrealism for characters and production. <br />
+          My passion lies in solving real-world problems and create beautiful
+          app/website and communicating complex ideas to non-technical
+          stakeholders. I am able to jump across verticals to deliver
+          high-performence app solution. <br />
           <br />
-          Now I&apos;m an interactive media design student in Istanbul ⏤
-          currently freelancing and seeking internship opportunities.
+          Now I&apos;m an interactive IT student in Bandung ⏤ currently
+          freelancing and seeking job opportunities.
         </Text>
 
         <VStack pt="20" spacing="16">
-          <HStack alignItems="baseline" gap={{ base: 5, md: 10 }}>
-            <Text whiteSpace="nowrap" textDecoration="underline" minW="150px">
-              Main Software
-            </Text>
-            <VStack alignItems="baseline" spacing="10">
-              <Text>
-                Pixologic ZBrush, Autodesk Maya, The Foundry Mari, Arnold
-                Renderer, Blender, Forger
-              </Text>
-              <Text>Adobe CC, Figma, Ableton</Text>
-            </VStack>
-          </HStack>
-
           <HStack alignItems="baseline" gap={{ base: 5, md: 10 }}>
             <Text whiteSpace="nowrap" textDecoration="underline" minW="150px">
               Main Skills
             </Text>
             <VStack alignItems="baseline" spacing="10">
               <Text>
-                Organic and Polygonal Modeling, UV Layout, Texturing,
-                Retopology, Ilustration, Sound Design
+                Javascript, React, Next Js, PHP, Wordpress, Laravel, Figma, Git
+              </Text>
+            </VStack>
+          </HStack>
+
+          <HStack alignItems="baseline" gap={{ base: 5, md: 10 }}>
+            <Text whiteSpace="nowrap" textDecoration="underline" minW="150px">
+              Personal Interests
+            </Text>
+            <VStack alignItems="baseline" spacing="10">
+              <Text>
+                Node Js, Python, Data Science, Hosting, Linux, Blockchain,
+                Metaverse, Shares (Finance)
               </Text>
             </VStack>
           </HStack>
@@ -51,7 +50,7 @@ function HeroAbout() {
         pl={{ md: 10 }}
         pt={{ base: 10, md: 0 }}
       >
-        <Image src="pp.png" alt="" objectFit="cover" />
+        <Image src="photo.jpg" alt="" objectFit="cover" />
       </Box>
     </>
   );

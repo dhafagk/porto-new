@@ -1,5 +1,5 @@
 import { ArrowForwardIcon } from "@chakra-ui/icons";
-import { Flex, Text, VStack, Spacer } from "@chakra-ui/react";
+import { Flex, Text, VStack, Spacer, Link } from "@chakra-ui/react";
 
 function Contact() {
   return (
@@ -19,7 +19,13 @@ function Contact() {
         <Spacer />
         <VStack align="baseline">
           <Text fontSize={{ base: "lg", md: "xl" }}>dhafageka@gmail.com</Text>
-          <Text fontSize="sm">View Resume</Text>
+          <Link
+            href="https://drive.google.com/file/d/1zwV2bExH7l0vS0u78MQUDwMKjYMo3i7I/view?usp=sharing"
+            fontSize="sm"
+            isExternal
+          >
+            View Resume
+          </Link>
         </VStack>
       </Flex>
     </>
