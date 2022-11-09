@@ -49,6 +49,7 @@ function HeroAbout() {
         mr={{ base: "auto", md: 0 }}
         pl={{ md: 10 }}
         pt={{ base: 10, md: 0 }}
+        mb="10"
       >
         <Image src="photo.jpg" alt="" objectFit="cover" />
       </Box>
