@@ -1,11 +1,14 @@
 [
   {
     "id": 1,
-    "image": "/projects/koncotani.png",
+    "image": "/projects/koncotanicom.png",
     "project_name": "Koncotani",
     "description": "An E-Commerce site built with React",
     "misc": "My first professional work as a Front-End",
-    "demo_url": "https://koncotani.id/ngopi-yo",
+    "demo_url": [
+      "https://koncotaniindonesia.com/",
+      "https://koncotani.id/ngopi-yo"
+    ],
     "github_repo": "link"
   },
   {
@@ -14,7 +17,7 @@
     "project_name": "Satu Global Investama",
     "description": "A Company Profile Landing Page that created with React, Next Js and Chakra UI as UI Library",
     "misc": "This is my most recent freelancing work",
-    "demo_url": "https://www.satuglobalinvestama.com/",
+    "demo_url": ["https://www.satuglobalinvestama.com/"],
     "github_repo": "link"
   },
   {
@@ -23,7 +26,7 @@
     "project_name": "Mojadiapp",
     "description": "An Education Platform created with Laravel + Vue Js",
     "misc": "My internship project at Kampus Merdeka Internship Program as a Front End",
-    "demo_url": "https://mojadiapp.com/",
+    "demo_url": ["https://mojadiapp.com/"],
     "github_repo": "link"
   },
   {
@@ -32,7 +35,7 @@
     "project_name": "Kenal Tiongkok",
     "description": "A Landing Page for Chinese Language Course site created with Wordpress",
     "misc": "This is my freelancing work as a Wordpress Developer",
-    "demo_url": "https://kenaltiongkok.com/",
+    "demo_url": ["https://kenaltiongkok.com/"],
     "github_repo": "link"
   },
   {
@@ -41,7 +44,9 @@
     "project_name": "Kamisaha",
     "description": "A streaming anime/video site created with Wordpress",
     "misc": "I was created this Wordpress Theme and sell it on Codester",
-    "demo_url": "https://www.codester.com/items/31438/kamisaha-anime-streaming-wordpress-theme",
+    "demo_url": [
+      "https://www.codester.com/items/31438/kamisaha-anime-streaming-wordpress-theme"
+    ],
     "github_repo": "link"
   }
 ]

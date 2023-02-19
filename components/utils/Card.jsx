@@ -32,15 +32,25 @@ function Card({
           <Text fontSize="sm" color="gray.500">
             {misc}
           </Text>
-          <Box mt={{ md: "auto !important" }}>
-            <Link
-              href={demo_url}
-              textDecoration="underline"
-              fontSize={{ base: "sm", lg: "md" }}
-              isExternal
-            >
-              Live preview from this project <ExternalLinkIcon mx="1" />
-            </Link>
+          <Box
+            mt={{ md: "auto !important" }}
+            display="flex"
+            flexDir="column"
+            gap="5"
+          >
+            {demo_url
+              ? demo_url.map((url, index) => (
+                  <Link
+                    key={index}
+                    href={url}
+                    textDecoration="underline"
+                    fontSize={{ base: "sm", lg: "md" }}
+                    isExternal
+                  >
+                    Live preview from this project <ExternalLinkIcon mx="1" />
+                  </Link>
+                ))
+              : null}
           </Box>
         </VStack>
 
