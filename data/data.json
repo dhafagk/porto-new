@@ -1,10 +1,19 @@
 [
   {
     "id": 1,
+    "image": "/projects/koncotani-register.png",
+    "project_name": "Koncotani Register",
+    "description": "A register site with multi step form built with React",
+    "misc": "",
+    "demo_url": ["https://register.koncotani.id/"],
+    "github_repo": "link"
+  },
+  {
+    "id": 2,
     "image": "/projects/koncotanicom.png",
     "project_name": "Koncotani",
-    "description": "An E-Commerce site built with React",
-    "misc": "My first professional work as a Front-End",
+    "description": "An E-Commerce site built with React and Laravel",
+    "misc": "",
     "demo_url": [
       "https://koncotaniindonesia.com/",
       "https://koncotani.id/ngopi-yo"
@@ -12,7 +21,7 @@
     "github_repo": "link"
   },
   {
-    "id": 2,
+    "id": 3,
     "image": "/projects/sgi.png",
     "project_name": "Satu Global Investama",
     "description": "A Company Profile Landing Page that created with React, Next Js and Chakra UI as UI Library",
@@ -21,7 +30,7 @@
     "github_repo": "link"
   },
   {
-    "id": 3,
+    "id": 4,
     "image": "/projects/mojadiapp.png",
     "project_name": "Mojadiapp",
     "description": "An Education Platform created with Laravel + Vue Js",
@@ -30,7 +39,7 @@
     "github_repo": "link"
   },
   {
-    "id": 4,
+    "id": 5,
     "image": "/projects/kenaltiongkok.png",
     "project_name": "Kenal Tiongkok",
     "description": "A Landing Page for Chinese Language Course site created with Wordpress",
@@ -39,7 +48,7 @@
     "github_repo": "link"
   },
   {
-    "id": 5,
+    "id": 6,
     "image": "/projects/kamisaha.jpg",
     "project_name": "Kamisaha",
     "description": "A streaming anime/video site created with Wordpress",
