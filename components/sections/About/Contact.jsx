@@ -18,7 +18,7 @@ function Contact() {
         </Text>
         <Spacer />
         <VStack align="baseline">
-          <Text fontSize={{ base: "lg", md: "xl" }}>dhafageka@gmail.com</Text>
+          <Text fontSize={{ base: "lg", md: "xl" }}>dhafagk@proton.me</Text>
           <Link
             href="https://drive.google.com/file/d/1zwV2bExH7l0vS0u78MQUDwMKjYMo3i7I/view?usp=sharing"
             fontSize="sm"
