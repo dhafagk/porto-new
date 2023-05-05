@@ -52,8 +52,8 @@ function Card({
                 </Link>
               ))
             ) : (
-              <Text as="del" color="gray.600" fontStyle="italic">
-                Still In Development
+              <Text color="gray.600" fontStyle="italic">
+                -
               </Text>
             )}
           </Box>
