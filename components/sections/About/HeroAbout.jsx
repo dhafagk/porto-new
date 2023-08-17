@@ -24,8 +24,8 @@ function HeroAbout() {
             </Text>
             <VStack alignItems="baseline" spacing="10">
               <Text>
-                Javascript, Typescript, React, Next Js, React Query, Redux,
-                Zustand, PHP, Wordpress, Laravel, Figma, Git
+                Javascript, Typescript, React, React Native, Next Js, React
+                Query, Redux, Zustand, PHP, Wordpress, Laravel, Figma, Git
               </Text>
             </VStack>
           </HStack>
