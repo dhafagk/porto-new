@@ -20,7 +20,7 @@ function Contact() {
         <VStack align="baseline">
           <Text fontSize={{ base: "lg", md: "xl" }}>dhafageka@gmail.com</Text>
           <Link
-            href="https://drive.google.com/file/d/1zwV2bExH7l0vS0u78MQUDwMKjYMo3i7I/view?usp=sharing"
+            href="https://drive.google.com/file/d/1i8gYgNW515pc62bToH0YIBlLydk8oLBx/view?usp=sharing"
             fontSize="sm"
             isExternal
           >

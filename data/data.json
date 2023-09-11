@@ -1,15 +1,33 @@
 [
   {
     "id": 1,
-    "image": "/projects/hallaw.png",
-    "project_name": "Hallaw",
-    "description": "An Admin Dashboard created with React",
-    "misc": "This is admin dashboard for my ongoing project, it use React, Ant Design and Redux/RTK Query for state management and data fetching. I built this with my other co-worker, I'm handle the logic such as how we consume the data and how we store the state.",
+    "image": "/projects/nirwana-dashboard.png",
+    "project_name": "Nirwana Textile Admin Dashboard",
+    "description": "An Admin Dashboard created with Next Js",
+    "misc": "This is admin dashboard for Nirwana Textile create with Next js and Chakra UI as Component Library. I create this from scratch without template whatsoever and I confident this is great admin dashboard. Any reason why I'm not using template? Because I'm built different.",
     "demo_url": [],
     "github_repo": "link"
   },
   {
     "id": 2,
+    "image": "/projects/nirwana-portal.png",
+    "project_name": "Gateway Nirwana Textile",
+    "description": "Gateway Site For Nirwana Textile",
+    "misc": "Basically this is e-commerce with some other company-related stuff. I create this using Next js and Ant Design as Component Design. Oh and I also design the overall website from scratch and I'm promise the initial design is much better than current design.",
+    "demo_url": ["http://gateway.nirwanatextile.com/"],
+    "github_repo": "link"
+  },
+  {
+    "id": 3,
+    "image": "/projects/hallaw.png",
+    "project_name": "Hallaw",
+    "description": "An Admin Dashboard created with React",
+    "misc": "This is admin dashboard for Hallaw, it use React, Ant Design and Redux/RTK Query for state management and data fetching. I built this with my other co-worker, I'm handle the logic such as how we consume the data and how we store the state.",
+    "demo_url": [],
+    "github_repo": "link"
+  },
+  {
+    "id": 4,
     "image": "/projects/koncotani-register.png",
     "project_name": "Koncotani Register",
     "description": "A single page register site with multi step form built with React and Ant Design",
@@ -30,7 +48,7 @@
     "github_repo": "link"
   },
   {
-    "id": 4,
+    "id": 5,
     "image": "/projects/sgi.png",
     "project_name": "Satu Global Investama",
     "description": "A Company Profile Landing Page that created with React, Next Js and Chakra UI as UI Library",
@@ -39,7 +57,7 @@
     "github_repo": "link"
   },
   {
-    "id": 5,
+    "id": 6,
     "image": "/projects/mojadiapp.png",
     "project_name": "Mojadiapp",
     "description": "An Education Platform created with Laravel + Vue Js",
@@ -48,7 +66,7 @@
     "github_repo": "link"
   },
   {
-    "id": 6,
+    "id": 7,
     "image": "/projects/kenaltiongkok.png",
     "project_name": "Kenal Tiongkok",
     "description": "A Landing Page for Chinese Language Course site created with Wordpress",
@@ -57,7 +75,7 @@
     "github_repo": "link"
   },
   {
-    "id": 7,
+    "id": 8,
     "image": "/projects/kamisaha.jpg",
     "project_name": "Kamisaha",
     "description": "A streaming anime/video site created with Wordpress",
