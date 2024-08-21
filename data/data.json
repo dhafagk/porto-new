@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "image": "/projects/sricandy.jpeg",
+    "project_name": "Sricandy Mobile App",
+    "description": "An E-Commerce App",
+    "misc": "This is an E-Commerce App for jewelry that I worked on using React Native. I'm became key member here because I'm taking part from the start of development and I'm also helping team by reviewing their code to ensure the code keep consistent.",
+    "demo_url": [],
+    "github_repo": "link"
+  },
+  {
+    "id": 2,
     "image": "/projects/nirwana-dashboard.png",
     "project_name": "Nirwana Textile Admin Dashboard",
     "description": "An Admin Dashboard created with Next Js",
@@ -9,7 +18,7 @@
     "github_repo": "link"
   },
   {
-    "id": 2,
+    "id": 3,
     "image": "/projects/nirwana-portal.png",
     "project_name": "Gateway Nirwana Textile",
     "description": "Gateway Site For Nirwana Textile",
@@ -18,7 +27,7 @@
     "github_repo": "link"
   },
   {
-    "id": 3,
+    "id": 4,
     "image": "/projects/hallaw.png",
     "project_name": "Hallaw",
     "description": "An Admin Dashboard created with React",
@@ -27,7 +36,7 @@
     "github_repo": "link"
   },
   {
-    "id": 4,
+    "id": 5,
     "image": "/projects/koncotani-register.png",
     "project_name": "Koncotani Register",
     "description": "A single page register site with multi step form built with React and Ant Design",
@@ -36,7 +45,7 @@
     "github_repo": "link"
   },
   {
-    "id": 3,
+    "id": 6,
     "image": "/projects/koncotanicom.png",
     "project_name": "Koncotani",
     "description": "An E-Commerce site built with React and Laravel.",
@@ -48,7 +57,7 @@
     "github_repo": "link"
   },
   {
-    "id": 5,
+    "id": 7,
     "image": "/projects/sgi.png",
     "project_name": "Satu Global Investama",
     "description": "A Company Profile Landing Page that created with React, Next Js and Chakra UI as UI Library",
@@ -57,7 +66,7 @@
     "github_repo": "link"
   },
   {
-    "id": 6,
+    "id": 8,
     "image": "/projects/mojadiapp.png",
     "project_name": "Mojadiapp",
     "description": "An Education Platform created with Laravel + Vue Js",
@@ -66,7 +75,7 @@
     "github_repo": "link"
   },
   {
-    "id": 7,
+    "id": 9,
     "image": "/projects/kenaltiongkok.png",
     "project_name": "Kenal Tiongkok",
     "description": "A Landing Page for Chinese Language Course site created with Wordpress",
@@ -75,7 +84,7 @@
     "github_repo": "link"
   },
   {
-    "id": 8,
+    "id": 10,
     "image": "/projects/kamisaha.jpg",
     "project_name": "Kamisaha",
     "description": "A streaming anime/video site created with Wordpress",
