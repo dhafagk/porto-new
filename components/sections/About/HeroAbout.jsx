@@ -8,13 +8,13 @@ function HeroAbout() {
           Hi I&apos;m Dhafa Gustiadi Kurniawan, Frontend Developer.
         </Text>
         <Text fontSize="xl" color="gray.600">
-          My passion lies in solving real-world problems and create beautiful
-          app/website and communicating complex ideas to non-technical
-          stakeholders. I am able to jump across verticals to deliver
-          high-performence app solution. <br />
-          <br />
-          Now I&apos;m an interactive IT student in Bandung ⏤ currently
-          freelancing and seeking job opportunities.
+          Experienced Frontend Developer with 2+ years of expertise in building
+          responsive and dynamic web and mobile applications. Proficient in
+          React, TypeScript, and modern UI/UX principles. Skilled in improving
+          app performance, creating smooth user navigation, and incorporating
+          AI-powered features to enhance user experience. Adaptable,
+          detail-oriented, and passionate about delivering high-quality user
+          experiences.
         </Text>
 
         <VStack pt="20" spacing="16">

@@ -1,11 +1,14 @@
 [
   {
     "id": 1,
-    "image": "/projects/sricandy.jpeg",
+    "image": "/projects/sricandy.webp",
     "project_name": "Sricandy Mobile App",
     "description": "An E-Commerce App",
-    "misc": "This is an E-Commerce App for jewelry that I worked on using React Native. I'm became key member here because I'm taking part from the start of development and I'm also helping team by reviewing their code to ensure the code keep consistent.",
-    "demo_url": [],
+    "misc": "This is an e-commerce app for jewelry that I worked on at Akasia/GajiCermat using React Native. I became a key member of the team because I was involved from the start of development and also helped by reviewing code to ensure consistency.",
+    "demo_url": [
+      "https://play.google.com/store/apps/details?id=com.sricandy.sricandy&hl=id",
+      "https://apps.apple.com/id/app/sricandy/id6504787552?l=id"
+    ],
     "github_repo": "link"
   },
   {
@@ -13,7 +16,7 @@
     "image": "/projects/nirwana-dashboard.png",
     "project_name": "Nirwana Textile Admin Dashboard",
     "description": "An Admin Dashboard created with Next Js",
-    "misc": "This is admin dashboard for Nirwana Textile create with Next js and Chakra UI as Component Library. I create this from scratch without template whatsoever and I confident this is great admin dashboard. Any reason why I'm not using template? Because I'm built different.",
+    "misc": "This is an admin dashboard for Nirwana Textile, built with Next.js and Chakra UI as the component library. I developed it from scratch without using any templates, ensuring a fully customized and optimized solution. My decision to avoid templates was driven by a commitment to creating a tailored and high-quality dashboard.",
     "demo_url": [],
     "github_repo": "link"
   },
@@ -22,7 +25,7 @@
     "image": "/projects/nirwana-portal.png",
     "project_name": "Gateway Nirwana Textile",
     "description": "Gateway Site For Nirwana Textile",
-    "misc": "Basically this is e-commerce with some other company-related stuff. I create this using Next js and Ant Design as Component Design. Oh and I also design the overall website from scratch and I'm promise the initial design is much better than current design.",
+    "misc": "This is an e-commerce platform integrated with company-specific features, built using Next.js and Ant Design as the component library. I developed it with a focus on scalability, efficiency, and a seamless user experience.",
     "demo_url": ["http://gateway.nirwanatextile.com/"],
     "github_repo": "link"
   },
@@ -31,7 +34,7 @@
     "image": "/projects/hallaw.png",
     "project_name": "Hallaw",
     "description": "An Admin Dashboard created with React",
-    "misc": "This is admin dashboard for Hallaw, it use React, Ant Design and Redux/RTK Query for state management and data fetching. I built this with my other co-worker, I'm handle the logic such as how we consume the data and how we store the state.",
+    "misc": "This is an admin dashboard for Hallaw, built using React, Ant Design, and Redux/RTK Query for state management and data fetching. I developed this alongside a co-worker, focusing on the application logic, including data consumption and state management.",
     "demo_url": [],
     "github_repo": "link"
   },
@@ -40,7 +43,7 @@
     "image": "/projects/koncotani-register.png",
     "project_name": "Koncotani Register",
     "description": "A single page register site with multi step form built with React and Ant Design",
-    "misc": "I make a complete redesign on this, before it was just a boring usual form that you can find anywhere. I store the form data to state using Zustand, and after that I sent the data to API using React Query + Axios.",
+    "misc": "I did a complete redesign of this project—previously, it was just a standard, unremarkable form. I used Zustand to manage the form state and handled data submission to the API with React Query and Axios.",
     "demo_url": ["https://register.koncotani.id/"],
     "github_repo": "link"
   },
@@ -49,7 +52,7 @@
     "image": "/projects/koncotanicom.png",
     "project_name": "Koncotani",
     "description": "An E-Commerce site built with React and Laravel.",
-    "misc": "I handle two project here: one is the admin dashboard and landing page, which is built with Laravel. Second is the e-commerce site built with React. I handle for almost everything in here from what should we use for this project to how we consume the data.",
+    "misc": "I managed two projects here: the admin dashboard and landing page, built with Laravel, and the e-commerce site, developed with React. I was responsible for nearly everything, from selecting the tech stack to handling data consumption.",
     "demo_url": [
       "https://koncotaniindonesia.com/",
       "https://koncotani.id/ngopi-yo"
@@ -61,7 +64,7 @@
     "image": "/projects/sgi.png",
     "project_name": "Satu Global Investama",
     "description": "A Company Profile Landing Page that created with React, Next Js and Chakra UI as UI Library",
-    "misc": "I'm doing a design slicing from Figma using Next Js and Chakra UI. It's just a single page app without dynamic data.",
+    "misc": "I implemented a design slicing from Figma using Next.js and Chakra UI. It's a single-page application without dynamic data.",
     "demo_url": ["https://www.satuglobalinvestama.com/"],
     "github_repo": "link"
   },
@@ -88,7 +91,7 @@
     "image": "/projects/kamisaha.jpg",
     "project_name": "Kamisaha",
     "description": "A streaming anime/video site created with Wordpress",
-    "misc": "I was created this Wordpress Theme and sell it on Codester",
+    "misc": "I have created this Wordpress Theme and sell it on Codester",
     "demo_url": [
       "https://www.codester.com/items/31438/kamisaha-anime-streaming-wordpress-theme"
     ],
